@@ -1,0 +1,2 @@
+The average of the input data is: 83.500000 
+The maximum value in the input data is: 104 
